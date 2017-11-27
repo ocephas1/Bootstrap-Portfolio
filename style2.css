@@ -8,14 +8,21 @@
 
 .navbar-brand {
 
-	font-size: 45px
+	font-size: 45px;
 }
 
 h1 {
-	margin: 75px;
+	padding-top: 45px;
+}
 }
 
+h2 {
+	margin: 95px;
+}
 
+.col-md-4 {
+	margin: 10px;
+}
 
 .col-md-5 {
 	margin: 80px;
@@ -34,8 +41,31 @@ h1 {
 
 .cardtitle {
 	text-align: center;
+
+}
+
+#copywright {
+	font-size: 15px;''
+}
+
+#OAC {
+	font-size: 13px;
+
 }
 
 #main-content {
+	border-style: solid;
+}
+
+#header {
+	border-style: solid;
+
+}
+
+#main-contentport {
+	border-style: solid;
+}
+
+#main-contentcontact {
 	border-style: solid;
 }
