@@ -15,6 +15,8 @@ h1 {
 	margin: 75px;
 }
 
+
+
 .col-md-5 {
 	margin: 80px;
 }
@@ -32,4 +34,8 @@ h1 {
 
 .cardtitle {
 	text-align: center;
+}
+
+#main-content {
+	border-style: solid;
 }
