@@ -1,0 +1,35 @@
+.biopic { 
+
+	width: 350px;
+	height: 450px;
+	margin: 50px;
+	
+}
+
+.navbar-brand {
+
+	font-size: 45px
+}
+
+h1 {
+	margin: 75px;
+}
+
+.col-md-5 {
+	margin: 80px;
+}
+
+.col-md-6 {
+
+	height: 200px;
+}
+
+.social {
+	width: 50px;
+	height: 50px;
+	content: center;
+}
+
+.cardtitle {
+	text-align: center;
+}
