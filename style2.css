@@ -20,6 +20,10 @@ h2 {
 	margin: 95px;
 }
 
+button  {
+	position: center;
+}
+
 .col-md-4 {
 	margin: 10px;
 }
@@ -68,4 +72,10 @@ h2 {
 
 #main-contentcontact {
 	border-style: solid;
+}
+
+.form-group {
+	margin: 40px;
+	padding-bottom: 65px;
+	position: center;
 }
