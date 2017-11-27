@@ -1,0 +1,42 @@
+* {
+
+position: relative;
+box-sizing: border-box;
+
+}
+
+#connect {
+	float: right;
+	border-style: solid;
+}
+
+.social {
+	width: 45px;
+	height: 45px;
+
+
+}
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: 270px;
+	width: 270px;
+}
+
+.container {
+	width: auto;
+
+}
+
+h1 {
+	font-size: 33px;
+
+}
+
+clearfix
+
+a {
+	font-size: 55px;
+}
+
